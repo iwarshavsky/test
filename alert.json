@@ -1,6 +1,6 @@
 {
   "id": "alert-102",
-  "data": ["ירושלים - מערב", "ירושלים - דרום", "מבשרת ציון"],
+  "data": ["ירושלים - מערב", "ירושלים - דרום", "מבשרת ציון", "ירושלים - מזרח"],
   "timestamp": "2025-06-25T23:58:00Z",
   "message": "Incoming alert for central region. Stay indoors.",
   "type": "emergency"
